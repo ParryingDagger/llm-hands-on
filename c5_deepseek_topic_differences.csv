@@ -1,0 +1,151 @@
+Topic,Original,Updated
+0,question | questions | answer | qa | answering,open-domain question answering and retrieval methods
+1,speech | asr | recognition | end | acoustic,Multilingual and Zero-Shot ASR with Joint Speech-Text Models
+2,medical | clinical | biomedical | patient | notes,Biomedical Knowledge Extraction from Clinical Notes
+3,summarization | summaries | summary | abstractive | document,Abstractive and Extractive Text Summarization Techniques
+4,hate | offensive | speech | detection | toxic,Multilingual Hate Speech Detection in Social Media
+5,relation | extraction | relations | re | entity,Relation Extraction Methods and Challenges
+6,gender | bias | biases | debiasing | fairness,Gender Bias in NLP and Mitigation Strategies
+7,reasoning | cot | math | mathematical | llms,Chain-of-Thought Reasoning in Language Models for Mathematical Problem Solving
+8,translation | nmt | machine | neural | bleu,Neural Machine Translation (NMT) and Hybrid Approaches for Improved Translation Quality
+9,ner | entity | named | recognition | entities,Advances in Named Entity Recognition (NER) Techniques
+10,agents | agent | game | games | environment,LLM-based Multi-Agent Systems in Game Environments
+11,parsing | dependency | parser | parsers | treebank,Dependency Parsing Models and Techniques
+12,legal | court | law | case | documents,Legal NLP and Language Models for Document Analysis and Judgment Prediction
+13,sentiment | reviews | analysis | review | polarity,Sentiment Analysis in NLP for Social Media and Reviews
+14,tuning | fine | lora | parameters | peft,Parameter-Efficient Fine-Tuning (PEFT) Methods for NLP and V&L Tasks
+15,aspect | sentiment | absa | opinion | analysis,Aspect-Based Sentiment Analysis (ABSA) and Opinion Mining
+16,law | zipf | frequency | words | word,"Zipf's laws in linguistics: frequency, meaning, and word length"
+17,translation | mt | qe | quality | translations,Quality Estimation in Machine Translation
+18,word | embeddings | embedding | vectors | words,Word Embeddings and Their Applications in NLP
+19,attention | transformer | transformers | self | heads,Efficient Attention Mechanisms in Transformer Architectures
+20,adversarial | attacks | attack | robustness | examples,Robustness of NLP Models to Adversarial Attacks
+21,explanations | explanation | interpretability | explainability | predictions,Human-centric Explanation Methods for Interpretable NLP Models
+22,commonsense | knowledge | reasoning | models | graph,Generative Commonsense Knowledge Models and Reasoning
+23,graph | knowledge | kg | kgs | entities,Knowledge Graph Completion Methods
+24,generation | text | control | decoding | attribute,controlled text generation with decoding methods and attribute constraints
+25,image | vision | captioning | captions | modal,multimodal image captioning and text-visual alignment
+26,label | classification | labels | text | hierarchical,multi-label text classification with label semantics and hierarchies
+27,topic | topics | lda | latent | document,<advancements in probabilistic topic modeling with latent features and external corpora>
+28,rnns | recurrent | lstm | syntactic | neural,Syntactic Processing and Hierarchical Structure in RNNs and LSTMs
+29,simplification | readability | complexity | lexical | sentence,Text Simplification Techniques and Challenges
+30,prompt | shot | tuning | few | prompts,prompt-based few-shot tuning for PLMs
+31,fact | claim | checking | claims | evidence,automated fact-checking and claim verification
+32,authorship | author | attribution | authors | texts,Authorship Attribution and Stylistic Analysis in Digital Texts
+33,fake | news | detection | media | social,Fake News Detection in Social Media using NLP and Machine Learning
+34,sql | queries | spider | database | query,Text-to-SQL parsing and query generation
+35,argument | arguments | argumentation | argumentative | mining,Argument Mining and Computational Argumentation
+36,semantics | distributional | compositional | calculus | meaning,Compositional Distributional Semantics in Vector Spaces
+37,event | extraction | events | argument | trigger,Event Extraction and Argument Detection in NLP
+38,political | news | media | bias | articles,Political Bias and Ideology Analysis in News and Social Media
+39,code | programming | source | generation | software,Code Generation and Representation with Large Language Models
+40,discourse | coherence | relations | rst | parsing,Discourse Parsing and Relation Classification
+41,coreference | resolution | mentions | mention | anaphora,Coreference Resolution Models and Techniques
+42,sense | wsd | senses | word | disambiguation,Word Sense Disambiguation and Sense Embeddings
+43,scientific | citation | papers | citations | scholarly,citation analysis and summarization in scientific literature
+44,safety | backdoor | attacks | attack | llms,Safety and Security Threats in Large Language Models (LLMs)
+45,dialogue | dialog | policy | oriented | user,Reinforcement Learning and Supervised Learning for Task-Oriented Dialogue Policy Optimization
+46,entity | linking | entities | el | mentions,Entity Linking Models and Disambiguation Techniques
+47,mental | depression | health | media | social,Automated Mental Health Detection from Social Media Posts
+48,nli | entailment | inference | negation | premise,Natural Language Inference (NLI) and Hypothesis-Only Models
+49,arabic | transliteration | script | morphological | dialects,"Arabic NLP Challenges and Advances in Dialects, Scripts, and Language Models"
+50,financial | stock | market | sentiment | finance,LLMs in Financial Analysis and Sentiment Modeling
+51,response | responses | dialogue | context | conversation,multi-turn response selection in dialogue systems
+52,dst | dialogue | tracking | slot | state,Dialogue State Tracking (DST) in Task-Oriented Dialog Systems
+53,gec | correction | grammatical | error | errors,Grammatical Error Correction (GEC) Methods and Generalization
+54,style | transfer | content | formality | text,Text Style Transfer (TST) Methods and Challenges
+55,stance | detection | rumor | rumour | rumors,zero-shot and cross-target stance detection in social media
+56,lingual | cross | transfer | languages | multilingual,Cross-lingual Transfer in Multilingual Language Models
+57,brain | reading | eye | surprisal | cognitive,brain-language model alignment in linguistic processing
+58,emotion | emotions | affective | emotional | anger,Emotion Analysis and Style Transfer in Text
+59,story | stories | narrative | generation | plot,automatic story generation and coherence enhancement
+60,paraphrase | paraphrases | plagiarism | paraphrasing | generation,Paraphrase Generation and Detection in NLP
+61,hallucination | hallucinations | llms | hallucinated | llm,Detection and Mitigation of Hallucinations in Large Language Models (LLMs)
+62,preference | feedback | reward | alignment | rlhf,Reinforcement Learning from Human Feedback (RLHF) for Language Model Alignment
+63,generated | detectors | detection | ai | text,AI-generated text detection and evasion
+64,icl | context | demonstrations | examples | learning,In-Context Learning (ICL) in Large Language Models (LLMs)
+65,privacy | private | dp | unlearning | sensitive,Privacy-Preserving Language Models with Differential Privacy
+66,covid | 19 | pandemic | tweets | vaccine,Analyzing COVID-19 vaccine discourse and sentiment on social media
+67,instruction | instructions | tuning | llms | following,Instruction Tuning for Large Language Models (LLMs)
+68,parsing | semantic | parser | parsers | logical,Cross-domain and multilingual semantic parsing with neural approaches
+69,poetry | lyrics | music | poems | poem,Automatic Poetry Generation and Understanding
+70,editing | knowledge | factual | plms | facts,Knowledge Editing in Large Language Models (LLMs)
+71,metrics | evaluation | nlg | human | generation,Evaluation Metrics for Natural Language Generation (NLG)
+72,change | semantic | time | diachronic | changes,computational models of semantic change in historical languages
+73,distillation | teacher | student | kd | knowledge,Knowledge Distillation for NLP Model Compression
+74,nlp | crowdsourcing | reproducibility | annotation | data,Crowdsourcing and NLP Annotation Quality
+75,bilingual | lingual | cross | embeddings | bli,Cross-lingual Word Embeddings and Bilingual Lexicon Induction
+76,slot | filling | intent | slu | slots,Joint Intent Detection and Slot Filling in Spoken Language Understanding (SLU)
+77,intent | intents | detection | utterances | ood,Few-shot Intent Detection and Discovery in Dialogue Systems
+78,summarization | meeting | dialogue | summaries | summary,abstractive meeting summarization techniques
+79,empathetic | empathy | emotion | emotional | emotions,empathetic dialogue generation with emotion-aware strategies
+80,amr | meaning | graph | parsing | smatch,AMR parsing and semantic graph representation
+81,keyphrase | keyphrases | extraction | document | absent,Keyphrase Extraction and Generation Methods
+82,radiology | reports | report | medical | chest,Radiology Report Generation and Processing
+83,masking | masked | mlm | pre | tokens,Masked Language Modeling (MLM) strategies and pretraining objectives
+84,continual | forgetting | catastrophic | learning | cl,Continual Learning and Catastrophic Forgetting in Multilingual and Language Models
+85,metaphor | figurative | literal | idiomatic | metaphors,Computational Analysis of Idiomatic and Metaphorical Expressions in NLP
+86,vqa | visual | question | answering | image,Visual Question Answering (VQA) and Multimodal Understanding
+87,llms | evaluation | chinese | llm | open,Evaluation of LLMs in Chinese and specialized domains using comprehensive benchmarks
+88,sarcasm | sarcastic | detection | irony | sentiment,Computational Sarcasm Detection in Textual Data
+89,persona | personas | personalized | dialogue | personality,personalized dialogue systems with persona consistency
+90,autoregressive | nat | nar | translation | non,Non-Autoregressive Machine Translation (NAT) Optimization
+91,dialogue | evaluation | metrics | dialog | human,Automatic Evaluation Metrics for Open-Domain Dialogue Systems
+92,pruning | compression | quantization | sparsity | bert,Efficient Compression of Pre-trained Language Models via Pruning and Distillation
+93,grammars | grammar | pcfgs | algorithm | parsing,Grammar Induction and Parsing Algorithms
+94,knowledge | grounded | dialogue | responses | response,knowledge-grounded dialogue generation and response systems
+95,layout | document | documents | understanding | extraction,Layout-aware Document Understanding and Information Extraction
+96,morphological | inflection | morphology | inflected | lemma,neural morphological inflection generation
+97,compositional | generalization | compositionality | scan | sequence,compositional generalization in neural models and semantic parsing
+98,patent | job | patents | resume | skill,Patent Analysis Using NLP and Knowledge Graphs
+99,taxonomy | taxonomies | hypernymy | hypernym | expansion,<automatic taxonomy expansion and construction>
+100,srl | role | labeling | argument | predicate,Neural Semantic Role Labeling with Syntactic Integration
+101,alignment | parallel | word | pairs | alignments,Word Alignment in Multilingual NLP
+102,calibration | uncertainty | confidence | llms | consistency,Calibration and Uncertainty in Model Confidence for Trustworthy Predictions
+103,geographic | location | geospatial | geo | spatial,Geospatial Textual Data and Semantic Analysis
+104,scoring | essay | aes | grading | essays,Automated Essay Scoring (AES) and Evaluation
+105,visual | dialog | image | dialogue | multimodal,multimodal visual dialogue systems
+106,augmentation | data | mixup | classification | text,Text Data Augmentation for NLP Classification Tasks
+107,segmentation | cws | chinese | word | character,Neural Multi-Criteria Chinese Word Segmentation
+108,switching | code | switched | cs | mixed,Computational Approaches to Code-Switching in Multilingual NLP
+109,moral | values | value | ethical | morality,Moral Sentiment Analysis and Ethical AI Frameworks
+110,sentiment | mixed | code | arabic | analysis,Code-Mixed Sentiment Analysis in Multilingual Social Media Texts
+111,dialect | identification | arabic | dialects | adi,Arabic Dialect Identification (ADI) in NLP
+112,sign | gloss | asl | slt | deaf,Sign Language Translation and Recognition Research
+113,health | media | pain | social | tweets,<public health analysis in social media using NLP and machine learning>
+114,product | commerce | attribute | ad | titles,Product Attribute Extraction and Summarization in E-commerce
+115,causal | causality | effect | events | cause,Causal Reasoning in NLP and Pre-trained Models
+116,crisis | disaster | disasters | tweets | emergency,Crisis-related social media analysis for disaster response
+117,dementia | ad | alzheimer | disease | cognitive,Machine learning and linguistic analysis for dementia detection and diagnosis
+118,pos | tagging | tagger | taggers | part,Part-of-Speech (POS) Tagging and Domain Adaptation
+119,probing | probe | linguistic | probes | representations,probing linguistic representations in NLP models
+120,african | languages | pidgin | fon | translation,NLP for low-resourced African languages
+121,recipes | recipe | procedural | cooking | food,Computational Modeling of Cooking Recipes and Procedural Workflows
+122,mmt | multimodal | visual | image | translation,multimodal machine translation (MMT) evaluation and visual context integration
+123,active | al | learning | annotation | uncertainty,Active Learning Strategies for Reducing Annotation Costs in NLP
+124,erc | emotion | conversation | speaker | emotions,Multimodal Emotion Recognition in Conversations (ERC) with Contextual and Speaker-aware Modeling
+125,contrastive | sentence | simcse | learning | embeddings,Contrastive Learning for Sentence Embeddings
+126,personality | traits | llms | mbti | personalities,Personality Prediction and Assessment in LLMs using MBTI and Psychological Tests
+127,humor | pun | humorous | puns | jokes,computational humor understanding and generation
+128,context | document | translation | level | nmt,Document-Level Context-Aware Neural Machine Translation
+129,temporal | event | events | relations | relation,Temporal and Causal Relation Extraction in Natural Language Processing
+130,spelling | csc | correction | errors | error,Chinese Spelling Correction (CSC) and Error Detection
+131,climate | change | esg | sustainability | reports,NLP for Climate Change Analysis and Policy Support
+132,ea | alignment | entity | kgs | entities,Entity Alignment in Knowledge Graphs
+133,emotion | ser | recognition | speech | iemocap,Multimodal Speech Emotion Recognition (SER) with Fusion Strategies and Attention Mechanisms
+134,annotation | tools | formats | annotations | linguistic,Linguistic Annotation Frameworks and Tools
+135,cognate | phylogenetic | cognates | sound | languages,Automated Cognate Detection and Phylogenetic Linguistics
+136,sequence | tagging | labeling | chunking | crf,Neural Sequence Labeling Models and Techniques
+137,counterfactual | counterfactuals | cad | causal | spurious,Counterfactual Data Augmentation for Robust NLP Models
+138,memes | meme | hateful | multimodal | harmful,Harmful Meme Detection and Analysis in Social Media
+139,multimodal | sentiment | modality | fusion | modalities,Multimodal Sentiment Analysis and Fusion Techniques
+140,act | dialog | dialogue | da | utterances,Dialogue Act Recognition and Segmentation
+141,propaganda | techniques | news | subtask | detection,NLP-based propaganda detection in news using LLMs and BERT models
+142,typing | entity | type | types | grained,Zero-shot and Fine-grained Entity Typing with Distant Supervision and Transfer Learning
+143,visual | grounding | grounded | image | visually,visually grounded multimodal word embeddings and semantics
+144,emoji | emojis | emoticons | sentiment | social,Emoji Sentiment Analysis and Prediction in Social Media Communication
+145,prompt | prompts | prompting | optimization | llms,Automatic Prompt Optimization for LLMs
+146,sentence | embeddings | sts | similarity | embedding,sentence embeddings and semantic textual similarity
+147,counseling | mental | therapy | health | psychotherapy,computational approaches in mental health counseling and therapy
+148,gans | gan | adversarial | generation | generative,GAN-based Text Generation and Training Stability
+149,diffusion | generation | autoregressive | text | continuous,Diffusion Models for Text Generation
